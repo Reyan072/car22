@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.hero{
+    height: 200vh;
+    width: 100%;
+    background-size: cover;
+    background-image: linear-gradient(rgba(7, 7, 7, 0.7),rgba(5, 6, 6, 0.7)), url(https://images.pexels.com/photos/9182351/pexels-photo-9182351.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-position: center;
+    background-attachment: fixed;
+
+}
+.sarenb{
+    text-align: center;
+    color: rgb(58, 14, 233);
+    font-size: 50px;
+    text-shadow: 0px 0px 8px white;
+}
+.car{
+    width: 500px;
+    height: 250px;
+    box-sizing: border-box;
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    margin-left: 270px;
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 15px;
+    margin-top: 15px;
+    display: inline-block;
+
+}
+.car1{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/9/93/2019_BMW_740Li_Automatic_facelift_3.0.jpg);
+}
+.car2{
+    background-image: url(https://media.ed.edmunds-media.com/bmw/6-series-gran-coupe/2018/oem/2018_bmw_6-series-gran-coupe_sedan_650i_fq_oem_1_1600.jpg);
+}
+.car3{
+    background-image: url(https://media.ed.edmunds-media.com/bmw/m5/2021/oem/2021_bmw_m5_sedan_base_fq_oem_8_600.jpg);
+}
+
